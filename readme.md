@@ -1,7 +1,5 @@
 # 🙋‍♀️ Requirements 
 
-Install PostgreSQL (Mac OSX)
-
 Clone or fork this repo:
 ```
 https://github.com/elenachurilova/portfolio

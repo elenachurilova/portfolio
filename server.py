@@ -2,7 +2,7 @@ from flask import (Flask, render_template, request, flash, session,
                    redirect, jsonify)
 
 app = Flask(__name__)
-app.secret_key = "dev"
+app.secret_key = os.environ.get("SECRET_KEY") 
 
 @app.route("/")
 def hello():
