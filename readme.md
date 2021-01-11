@@ -21,5 +21,3 @@ Run the app:
 ```
 $ python3 server.py
 ```
-
-Open on port 5000
